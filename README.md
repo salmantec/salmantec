@@ -11,19 +11,11 @@
 
 ## Connect with Me 🤝
 
-<p>
-<a href="https://twitter.com/akjsal">
-   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<!-- <a href="https://discordapp.com/users">
-   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp; -->
-
-<a href="https://www.linkedin.com/in/mohamed-salman-05/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<p/>
+[![Linkedin Badge](https://img.shields.io/badge/-mohamedsalman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-salman-05/)](https://www.linkedin.com/in/mohamed-salman-05/)
+[![Instagram Badge](https://img.shields.io/badge/-mohamedsalman4373-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mohamedsalman4373/)](https://instagram.com/mohamedsalman4373)
+[![Twitter Badge](https://img.shields.io/badge/-akjsal-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/akjsal/)](https://twitter.com/akjsal)
+[![Gmail Badge](https://img.shields.io/badge/-mohamed.akj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mohamed.akj@gmail.com)](mailto:mohamed.akj@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=Wordpress&logoColor=white&link=https://salmantec.github.io/)](https://salmantec.github.io/)
 
 <br/>
 
