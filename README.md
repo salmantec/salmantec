@@ -44,9 +44,13 @@
 
 ## Stats from GitHub 📊
 
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmantec&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmantec&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmantec&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salmantec&theme=tokyonight" />
+</p>
 
-![Salman's github activity graph](https://activity-graph.herokuapp.com/graph?username=salmantec&theme=dracula)
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmantec&layout=compact&theme=tokyonight" />
+</p>
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=salmantec&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
