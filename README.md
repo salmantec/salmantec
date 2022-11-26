@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning Design Patterns, Software Architectures and Cloud Technologies.
 - 👯 I’m looking to collaborate on an opensource project.
 - 😄 Pronouns: He / His
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1so4DkuNpIP50_lNHbeKdZ6ztoGXoblMT/view?usp=share_link)
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmantec&label=Profile%20views&color=0e75b6&style=flat" alt="salmantec" /> </p> -->
 
 <br/>
 
