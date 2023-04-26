@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Mohamed Salman!
 
 
-- 💼 I'm working as an Associate Consultant-Technology at Virtusa.
+- 💼 I'm working as a Software Engineer at Shell.
 - 🔭 I’m currently working on NodeJS Projects.
 - 🌱 I’m currently learning Design Patterns, Software Architectures and Cloud Technologies.
 - 👯 I’m looking to collaborate on an opensource project.
