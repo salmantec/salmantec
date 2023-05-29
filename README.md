@@ -2,7 +2,7 @@
 
 
 - 💼 I'm working as a Software Engineer at Shell.
-- 🔭 I’m currently working on NodeJS Projects.
+- 🔭 I’m currently working on Python Project.
 - 🌱 I’m currently learning Design Patterns, Software Architectures and Cloud Technologies.
 - 👯 I’m looking to collaborate on an opensource project.
 - 😄 Pronouns: He / His
