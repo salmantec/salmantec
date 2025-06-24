@@ -2,8 +2,8 @@
 
 
 - 💼 I'm working as a Software Engineer at Shell.
-- 🔭 I’m currently working on Python Project.
-- 🌱 I’m currently learning Design Patterns, Software Architectures and Cloud Technologies.
+- 🔭 I’m currently working on Python Project using FastAPI, Pandas, Numpy.
+- 🌱 I’m currently learning Data related stuffs, Design Patterns, Software Architectures and Cloud Technologies.
 - 👯 I’m looking to collaborate on an opensource project.
 - 😄 Pronouns: He / His
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1so4DkuNpIP50_lNHbeKdZ6ztoGXoblMT/view?usp=share_link)
